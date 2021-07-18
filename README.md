@@ -1,5 +1,5 @@
 <h1>
-  ## <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/Sahannewedit.jpg" width = "800px" height = "400px"/>
+   <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/Sahannewedit.jpg" width = "800px" height = "400px"/>
 </h1>
 
 ### Hi there 👋, I am Sahan Punchihewa
