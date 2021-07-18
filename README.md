@@ -1,9 +1,9 @@
+# <h1 align="center">
+  <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/Sahannewedit.jpg" alt="Marton Lederer" width = "50px" />
+</h1>
+
 ### Hi there 👋, I am Sahan Punchihewa
 #### Full Stack Developer
-
-<h1 align="center">
-  <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/Sahannewedit.jpg" alt="Marton Lederer" />
-</h1>
 
 
 ### I am Sahan Punchihewa, 23 years old, 2nd Year Undergraduate, at SLIIT, from Sri Lanka   
