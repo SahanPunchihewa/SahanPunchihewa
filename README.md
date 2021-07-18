@@ -3,8 +3,7 @@
 </h1>
 
 ### Hi there 👋,I am Sahan Punchihewa, 23 years old, 2nd Year Undergraduate, at SLIIT, from Sri Lanka   
-
-#### Full Stack Developer
+Full Stack Developer
 
 
 ## [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SahanPunchihewa)  
