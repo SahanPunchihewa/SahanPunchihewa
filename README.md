@@ -1,4 +1,4 @@
-### Hi there 👋, I am Sahan Punchihewa
+### Hi there 👋, I'm Sahan Punchihewa
 #### Full Stack Developer
 ![Full Stack Developer](https://previews.123rf.com/images/iuriimotov/iuriimotov2006/iuriimotov200600074/150402774-programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-bin.jpg)
 
