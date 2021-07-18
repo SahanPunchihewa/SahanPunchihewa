@@ -7,11 +7,10 @@
 #### Full Stack Developer
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahanpunchihewa&label=Profile%20views&color=0e75b6&style=flat" alt="sahanpunchihewa" /> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SahanPunchihewa)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahanPunchihewa&show_icons=true)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SahanPunchihewa)  
 
-
-# [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SahanPunchihewa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sahan-punchihewa-0637651bb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sahan.nilupul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sahan_98_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/im_Sahan)  
-
-# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahanPunchihewa)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/SahanPunchihewa) 
