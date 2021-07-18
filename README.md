@@ -1,6 +1,10 @@
 ### Hi there 👋, I am Sahan Punchihewa
 #### Full Stack Developer
-![Full Stack Developer](https://previews.123rf.com/images/iuriimotov/iuriimotov2006/iuriimotov200600074/150402774-programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-bin.jpg)
+
+<h1 align="center">
+  <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/Sahannewedit.jpg" alt="Marton Lederer" />
+</h1>
+
 
 ### I am Sahan Punchihewa, 23 years old, 2nd Year Undergraduate, at SLIIT, from Sri Lanka   
 
