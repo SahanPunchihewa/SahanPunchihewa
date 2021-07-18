@@ -7,10 +7,10 @@
 #### Full Stack Developer
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SahanPunchihewa)  
+## [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SahanPunchihewa)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahanPunchihewa&show_icons=true)  
+## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahanPunchihewa&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SahanPunchihewa)  
+## ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SahanPunchihewa)  
 
-![Profile views](https://gpvc.arturio.dev/SahanPunchihewa) 
+## ![Profile views](https://gpvc.arturio.dev/SahanPunchihewa) 
