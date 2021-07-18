@@ -1,5 +1,5 @@
 # <h1 align="center">
-  <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/Sahannewedit.jpg" alt="Marton Lederer" width = "1000px" />
+  <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/Sahannewedit.jpg" alt="Marton Lederer" width = "1000px" height = "50px" />
 </h1>
 
 ### Hi there 👋, I am Sahan Punchihewa
