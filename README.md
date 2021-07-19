@@ -5,6 +5,10 @@
 ### Hi there 👋,I am Sahan Punchihewa, 23 years old, 2nd Year Undergraduate, at SLIIT, from Sri Lanka 
 Full Stack Developer
 
+## Reach me out
+
+![Twitter Follow](https://img.shields.io/twitter/follow/im_Sahan?color=%2308a0e9&style=social)
+
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahanPunchihewa&show_icons=true)  
 
 ## ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SahanPunchihewa)  
