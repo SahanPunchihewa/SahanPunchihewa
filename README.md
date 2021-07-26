@@ -2,7 +2,7 @@
    <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/Sahannewedit1.jpg" width = "750px" height = "300px" align = "center"/>
 </h1>
 
-### Hi there 👋,I am Sahan Punchihewa, 23 years old, 2nd Year Undergraduate at SLIIT, from Sri Lanka 
+### Hi there 👋,I am Sahan Punchihewa, 23 years old, Undergraduate. 
 
 
 <h3>Reach me out</h3>
