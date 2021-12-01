@@ -1,5 +1,5 @@
 <h1 align= "center">
-   <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/Sahannewedit1.jpg" width = "750px" height = "300px" align = "center"/>
+   <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/sahanlogo8k.png" width = "750px" height = "300px" align = "center"/>
 </h1>
 
 ### Hi there 👋,I am Sahan Punchihewa, 23 years old, Undergraduate 
