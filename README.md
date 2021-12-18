@@ -6,6 +6,13 @@
 
 <h3 align="center">I'm 23 years old Undergraduate</h3>
 
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Software Engineering.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+## 🚀 Languages and Tools:
 
 
 <h3>Reach me out</h3>
