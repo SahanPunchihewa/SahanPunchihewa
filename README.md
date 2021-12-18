@@ -55,15 +55,17 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sahan-punchihewa-0637651bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://img.shields.io/twitter/follow/im_Sahan?color=%2308a0e9&style=social"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/sahan_98_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/sahan.nilupul/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
 
-<h3>Reach me out</h3>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/im_Sahan?color=%2308a0e9&style=social)
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SahanPunchihewa">
+</a>
+<a href="https://github.com/SahanPunchihewa?tab=followers"><img src="https://img.shields.io/github/followers/SahanPunchihewa?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
