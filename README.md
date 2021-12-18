@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Software Engineering Undergraduate.**
+- 🌱 I’m currently **Software Engineering Undergraduate.**
   
 - 🔭 I’m currently learning **Mobile Application Development.**
 
