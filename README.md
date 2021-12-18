@@ -1,5 +1,5 @@
 <h1 align= "center">
-   <img src="(https://user-images.githubusercontent.com/72688889/146649506-944e40ac-2d94-4a02-bd1a-19d315049a54.png)" width = "750px" height = "300px" align = "center"/>
+   <img src="https://user-images.githubusercontent.com/72688889/146649506-944e40ac-2d94-4a02-bd1a-19d315049a54.png" width = "750px" height = "300px" align = "center"/>
 </h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahan Punchihewa</h1>
