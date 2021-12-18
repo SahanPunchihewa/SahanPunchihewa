@@ -1,8 +1,10 @@
 <h1 align= "center">
    <img src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/sahan.png" width = "750px" height = "300px" align = "center"/>
+
+ ## Hi there 👋,I am Sahan Punchihewa
 </h1>
 
-### Hi there 👋,I am Sahan Punchihewa, 23 years old, Undergraduate 
+
 
 
 <h3>Reach me out</h3>
