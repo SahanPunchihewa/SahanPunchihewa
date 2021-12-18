@@ -8,7 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Software Engineering.**
+- 🌱 I’m currently learning **Software Engineering Undergraduate.**
+  
+- 🔭 I’m currently learning **Mobile Application Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
