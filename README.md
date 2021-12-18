@@ -26,24 +26,48 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> 
        
-    
-    
+</p>
+
+   <p align="center">
+    <a href="https://github.com/SahanPunchihewa/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SahanPunchihewa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
 
+## 📊 My Github Stats
 
+<br/>
+    <a href="https://github.com/SahanPunchihewa/github-readme-stats"><img alt="Sahan Punchihewa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SahanPunchihewa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SahanPunchihewa/github-readme-stats"><img alt="Sahan Punchihewa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanPunchihewa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
+<br/>
+<br/>
+
+<a href="https://github.com/SahanPunchihewa/github-readme-activity-graph"><img alt="Sahan Punchihewa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SahanPunchihewa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/sahan-punchihewa-0637651bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://img.shields.io/twitter/follow/im_Sahan?color=%2308a0e9&style=social"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
 
 <h3>Reach me out</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/im_Sahan?color=%2308a0e9&style=social)
-[![Linkedin: Sahan Punchihewa](https://img.shields.io/badge/-Sahan_Punchihewa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sahan-Punchihewa/)](https://www.linkedin.com/in/sahan-punchihewa-0637651bb)
-![GitHub followers](https://img.shields.io/github/followers/SahanPunchihewa?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/SahanPunchihewa?style=social)
-![Profile views](https://gpvc.arturio.dev/SahanPunchihewa) 
 
 
-## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahanPunchihewa&show_icons=true)  
+
+
 
 
 
