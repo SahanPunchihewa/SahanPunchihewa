@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahan Punchihewa</h1>
 
-<h3 align="center">I'm 23 years old Undergraduate</h3>
 
 ## 🙋‍♂️ About Me
 
