@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently **Software Engineering Undergraduate at SLIIT.**
+- 🌱 I’m currently studying **Software Engineering Undergraduate at SLIIT.**
   
 - 🔭 I’m currently learning **Mobile Application Development.**
 
