@@ -2,7 +2,7 @@
     <img align = alt = "gif" src="https://github.com/SahanPunchihewa/SahanPunchihewa/blob/main/readme.gif" width = "600" height = "320"/></center>
 </h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahan Punchihewa</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px">, I'm Sahan Punchihewa</h1>
 
 
 ## 🙋‍♂️ About Me
