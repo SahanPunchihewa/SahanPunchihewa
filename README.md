@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-## 🚀 Skills :
+## 🚀 Skills & Experience :
 
 🔴 <strong>Programming Languages</strong>
 
