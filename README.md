@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently studying **Software Engineering Undergraduate at SLIIT.**
   
-- 🔭 I’m currently learning **Mobile Application Development** and **MERN Stack**
+- 🔭 I’m currently learning **Docker** and **Deno**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
