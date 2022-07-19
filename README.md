@@ -49,7 +49,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sahan-punchihewa-0637651bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/sahan-punchihewa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/im_Sahan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sahan_98_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/sahan.nilupul/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
