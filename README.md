@@ -13,7 +13,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-## 🚀 Languages and Tools:
+## 🚀 Skills and Expeience:
+
+🔴 <strong>Programming Languages</strong>
 
 <p align="left">
 
