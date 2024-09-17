@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently studying **Software Engineering Undergraduate at SLIIT.**
+- 🌱 Graduated from Sri Lanka Institute Of Information Technology (SLIIT) with **BSc (Hons) in Information Technology, specializing in Software Engineering.**
   
-- 🔭 I’m currently learning **Docker** and **Deno**
+- 🔭 I’m currently learning **Django** and **SpringBoot**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
