@@ -30,7 +30,10 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SahanPunchihewa/github-readme-activity-graph"><img alt="Sahan Punchihewa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SahanPunchihewa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=SahanPunchihewa&bg_color=000000&color=fafafa&line=05e13c&point=fcfcfc&area=true&hide_border=true">
+  <img alt="Sahan Punchihewa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SahanPunchihewa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
+
 
 <br/>
 <br/>
